@@ -2,4 +2,8 @@
   <string name="app_name">LibraryExamples</string>
   <string name="button_text">Load new image</string>
   <string name="edit_text_hint">Enter Image subject</string>
+  <string name="image_loading_text">Fetching image</string>
+  <string name="error_loading_image_title">Error loading image</string>
+  <string name="error_loading_image_content">Please check your connection and try again</string>
+  <string name="ok">OK</string>
 </resources>
