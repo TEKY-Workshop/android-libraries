@@ -233,3 +233,7 @@ new MaterialDialog.Builder(this)
         .show();
 ```
 
+Example
+=== 
+
+To see some of these libraries in use, check out the branches in this repo for a step by step guide to adding them to your project
