@@ -1,3 +1,5 @@
 <resources>
   <string name="app_name">LibraryExamples</string>
+  <string name="button_text">Set Header Text</string>
+  <string name="edit_text_hint">Enter header text here</string>
 </resources>
